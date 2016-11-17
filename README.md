@@ -1,4 +1,5 @@
-### scrivener.ai
+scrivener.ai
+-----------
 
 Engage in your meetings, and with your colleauge. Simply discuss, and count on scrivener as your virtual scribe.
 
